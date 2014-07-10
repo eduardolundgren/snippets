@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+language: node_js
+node_js:
+  - "0.11"
+  - "0.10"
+]]></content>
+	<tabTrigger>tra</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] travis.yml</description>
+</snippet>

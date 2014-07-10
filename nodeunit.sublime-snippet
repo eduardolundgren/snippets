@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+'use strict';
+
+var sandbox = require('nodeunit').utils.sandbox;
+var context = sandbox('src/Foo.js', {foo: {}});
+var Foo = context.foo.Foo;
+
+module.exports = {
+  setUp: function(done) {
+    done();
+  },
+
+  tearDown: function(done) {
+    done();
+  },
+
+  testShouldSomething: function(test) {
+    test.ok(true, 'Should something.');
+    test.done();
+  }
+};
+]]></content>
+	<tabTrigger>nod</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] nodeunit test</description>
+</snippet>

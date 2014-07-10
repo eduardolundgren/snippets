@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+gulp.task('task', function() {
+	return gulp.src('').pipe();
+});
+]]></content>
+	<tabTrigger>gulp</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] gulptask</description>
+</snippet>

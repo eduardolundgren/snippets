@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prompt('$1');
+]]></content>
+	<tabTrigger>pro</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] prompt</description>
+</snippet>

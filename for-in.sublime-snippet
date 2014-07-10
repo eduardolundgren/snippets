@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+for (var i in obj) {
+	if (obj.hasOwnProperty('')) {
+		$1
+	}
+}
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] for in</description>
+</snippet>

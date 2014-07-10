@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+node.classList.add('$1');
+]]></content>
+	<tabTrigger>add</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] classList.add</description>
+</snippet>

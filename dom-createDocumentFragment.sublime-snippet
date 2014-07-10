@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var frag = document.createDocumentFragment();
+]]></content>
+	<tabTrigger>cre</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] createDocumentFragment</description>
+</snippet>

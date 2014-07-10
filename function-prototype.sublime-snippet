@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+$1.prototype.method = function() {
+	
+};
+]]></content>
+	<tabTrigger>pro</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] prototype</description>
+</snippet>

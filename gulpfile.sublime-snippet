@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+'use strict';
+var gulp = require('gulp');
+
+gulp.task('task', function() {
+	return gulp.src('').pipe();
+});
+]]></content>
+	<tabTrigger>gulp</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] gulpfile</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+if ($1) {
+	
+} else {
+	
+}
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] if-else</description>
+</snippet>

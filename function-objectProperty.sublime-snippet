@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+name: function () {$1}
+]]></content>
+	<tabTrigger>fun</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] function as a property of an object</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+gulp.task('lint', function() {
+	return gulp.src('src/**.js')
+		.pipe(jshint())
+		.pipe(jshint.reporter(stylish));
+});
+]]></content>
+	<tabTrigger>gulp</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] gulptask lint</description>
+</snippet>

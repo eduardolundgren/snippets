@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+node.setAttribute('$1', '');
+]]></content>
+	<tabTrigger>set</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] setAttribute</description>
+</snippet>

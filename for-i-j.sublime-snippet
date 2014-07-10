@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+for (var i = 0; i < width; i++) {
+	for (var j = 0; j < height; j++) {
+		var w = i*width + j;
+		$1
+	}
+}
+]]></content>
+	<tabTrigger>for-i-j</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] for</description>
+</snippet>

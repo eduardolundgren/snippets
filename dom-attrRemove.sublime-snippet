@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+node.removeAttribute('$1');
+]]></content>
+	<tabTrigger>rem</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] removeAttribute</description>
+</snippet>

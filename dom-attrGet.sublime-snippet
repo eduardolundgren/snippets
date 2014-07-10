@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+node.getAttribute('$1');
+]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] getAttribute</description>
+</snippet>

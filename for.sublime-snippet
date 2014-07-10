@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (var i = 0; i < array.length; i++) {
+	$1
+}
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] for</description>
+</snippet>
