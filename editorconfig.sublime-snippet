@@ -16,6 +16,5 @@ indent_size = 2
 trim_trailing_whitespace = false
 ]]></content>
 	<tabTrigger>edi</tabTrigger>
-	<scope>source.js</scope>
 	<description>[snippets] .editorconfig</description>
 </snippet>
