@@ -2,7 +2,7 @@
 	<content><![CDATA[
 try {
 	
-} catch(error) {}
+} catch (error) {}
 ]]></content>
 	<tabTrigger>try</tabTrigger>
 	<scope>source.js</scope>
