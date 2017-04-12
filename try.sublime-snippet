@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+try {
+	
+} catch(error) {}
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.js</scope>
+	<description>[snippets] try</description>
+</snippet>
